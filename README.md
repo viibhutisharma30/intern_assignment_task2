@@ -55,17 +55,17 @@ The chatbot will run in a terminal/console interface:
 ## Bonus: Future Scaling with GPT
 To scale this system:
 
-1.Use LangChain + OpenAI API with Retrieval-Augmented Generation (RAG)
-2.Fine-tune a GPT-based model on NLTI-specific data (past year papers, mentor chats)
-3.Use tools like Haystack or HuggingFace Transformers for production-ready QA systems
+1. Use LangChain + OpenAI API with Retrieval-Augmented Generation (RAG)
+2. Fine-tune a GPT-based model on NLTI-specific data (past year papers, mentor chats)
+3. Use tools like Haystack or HuggingFace Transformers for production-ready QA systems
 
 ---
 
 ## Limitations
 
-1.Works only with questions similar to those in the knowledge base.
-2.Doesn’t use deep learning (good for lightweight prototypes).
-3.Not trained on actual CLAT documents or historical data.
+1. Works only with questions similar to those in the knowledge base.
+2. Doesn’t use deep learning (good for lightweight prototypes).
+3. Not trained on actual CLAT documents or historical data.
 
 
 
