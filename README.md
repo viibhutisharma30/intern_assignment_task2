@@ -50,17 +50,18 @@ The chatbot will run in a terminal/console interface:
 👩‍⚖️ You: What’s the CLAT 2025 syllabus?
 🤖 Chatbot: The CLAT 2025 syllabus includes English Language, Current Affairs...
 ```
-#💡 Bonus: Future Scaling with GPT
+## Bonus: Future Scaling with GPT
 To scale this system:
 
--Use LangChain + OpenAI API with Retrieval-Augmented Generation (RAG)
--Fine-tune a GPT-based model on NLTI-specific data (past year papers, mentor chats)
--Use tools like Haystack or HuggingFace Transformers for production-ready QA systems
+1.Use LangChain + OpenAI API with Retrieval-Augmented Generation (RAG)
+2.Fine-tune a GPT-based model on NLTI-specific data (past year papers, mentor chats)
+3.Use tools like Haystack or HuggingFace Transformers for production-ready QA systems
 
-#📈 Limitations
--Works only with questions similar to those in the knowledge base.
--Doesn’t use deep learning (good for lightweight prototypes).
--Not trained on actual CLAT documents or historical data.
+##Limitations
+
+1.Works only with questions similar to those in the knowledge base.
+2.Doesn’t use deep learning (good for lightweight prototypes).
+3.Not trained on actual CLAT documents or historical data.
 
 
 
