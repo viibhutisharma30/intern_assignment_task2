@@ -51,7 +51,7 @@ The chatbot will run in a terminal/console interface:
 👩‍⚖️ You: What’s the CLAT 2025 syllabus?
 🤖 Chatbot: The CLAT 2025 syllabus includes English Language, Current Affairs...
 ```
----
+
 ## Bonus: Future Scaling with GPT
 To scale this system:
 
