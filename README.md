@@ -36,3 +36,51 @@ Build a Python-based chatbot prototype that can respond to legal exam queries su
 ```bash
 git clone https://github.com/yourusername/clat-chatbot.git
 cd clat-chatbot
+
+
+##🚀 How to Run the Chatbot
+Run the Python script or Jupyter notebook:
+
+bash
+Copy
+Edit
+python clat_chatbot.py
+The chatbot will run in a terminal/console interface:
+
+text
+Copy
+Edit
+📚 CLAT Chatbot (type 'exit' to quit)
+
+👩‍⚖️ You: What’s the CLAT 2025 syllabus?
+🤖 Chatbot: The CLAT 2025 syllabus includes English Language, Current Affairs...
+📚 Sample Questions in the Knowledge Base
+What is the syllabus for CLAT 2025?
+
+How many questions are there in the English section?
+
+What is the duration of the CLAT exam?
+
+Give me last year’s cut-off for NLSIU Bangalore.
+
+Is there any negative marking in CLAT?
+
+What are the eligibility criteria for CLAT UG?
+
+💡 Bonus: Future Scaling with GPT
+To scale this system:
+
+Use LangChain + OpenAI API with Retrieval-Augmented Generation (RAG)
+
+Fine-tune a GPT-based model on NLTI-specific data (past year papers, mentor chats)
+
+Use tools like Haystack or HuggingFace Transformers for production-ready QA systems
+
+📈 Limitations
+Works only with questions similar to those in the knowledge base.
+
+Doesn’t use deep learning (good for lightweight prototypes).
+
+Not trained on actual CLAT documents or historical data.
+
+
