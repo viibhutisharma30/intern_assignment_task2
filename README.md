@@ -61,7 +61,7 @@ To scale this system:
 
 ---
 
-##Limitations
+## Limitations
 
 1.Works only with questions similar to those in the knowledge base.
 2.Doesn’t use deep learning (good for lightweight prototypes).
