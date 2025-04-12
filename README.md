@@ -58,7 +58,9 @@ To scale this system:
 1.Use LangChain + OpenAI API with Retrieval-Augmented Generation (RAG)
 2.Fine-tune a GPT-based model on NLTI-specific data (past year papers, mentor chats)
 3.Use tools like Haystack or HuggingFace Transformers for production-ready QA systems
+
 ---
+
 ##Limitations
 
 1.Works only with questions similar to those in the knowledge base.
